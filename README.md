@@ -1,3 +1,3 @@
 # Demo
-First Git Repository\n
+First Git Repository
 Name - Sarthak Jane
